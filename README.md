@@ -1,2 +1,2 @@
-# awesome-gdrive
+# Awesome-gDrive
 Useful, Amazing, Awesome Google Drive Links
